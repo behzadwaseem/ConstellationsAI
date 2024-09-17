@@ -1,0 +1,7 @@
+const ACTIONS = {
+    SELECT: "SELECT",
+    SKELETON: "SKELETON",
+    RECTANGLE: "RECTANGLE",
+    AI_RECTANGLES: "AI_RECTANGLES"
+};
+export default ACTIONS;
